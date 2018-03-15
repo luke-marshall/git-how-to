@@ -11,3 +11,6 @@
 5. To check out your branch type `git checkout <branch_name>`
 
 Reminder: To check status, type `git status`
+
+6. To merge branches, go to the branch you want to merge into, and type `git merge <branch_name>`
+
