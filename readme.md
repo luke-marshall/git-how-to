@@ -9,3 +9,5 @@
 4. To create a branch, type `git branch <branch_name>`
 
 5. To check out your branch type `git checkout <branch_name>`
+
+Reminder: To check status, type `git status`
