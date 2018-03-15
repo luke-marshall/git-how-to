@@ -9,3 +9,5 @@
 4. To create a branch, type `git branch <branch_name>`
 
 5. To check out your branch type `git checkout <branch_name>`
+
+6. To merge branches, go to the branch you want to merge into, and type `git merge <branch_name>`
