@@ -17,3 +17,5 @@ Reminder: To check status, type `git status`
 7. To add a remote place to push your git code, type `git remote add origin <your_url>`
 
 8. To actually push your code to the cloud, type `git push -u origin master` - afte the first time you can usually just go with `git push`
+
+9. To clone a repository that exists somewhere else, type `git clone <repository_url>`
