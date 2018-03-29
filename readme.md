@@ -19,3 +19,5 @@ Reminder: To check status, type `git status`
 8. To actually push your code to the cloud, type `git push -u origin master` - afte the first time you can usually just go with `git push`
 
 9. To clone a repository that exists somewhere else, type `git clone <repository_url>`
+
+10. Install github desktop and import your repository.
