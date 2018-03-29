@@ -22,4 +22,5 @@ Reminder: To check status, type `git status`
 
 10. Install github desktop and import your repository.
 
-11. Do some more things!
+11. I installed it!
+
