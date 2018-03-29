@@ -21,3 +21,5 @@ Reminder: To check status, type `git status`
 9. To clone a repository that exists somewhere else, type `git clone <repository_url>`
 
 10. Install github desktop and import your repository.
+
+11. Do some more things!
